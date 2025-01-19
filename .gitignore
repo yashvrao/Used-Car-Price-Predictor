@@ -1,0 +1,8 @@
+# Ignore environment variable files
+.env
+
+# Ignore model files
+*.pkl
+
+# Ignore other sensitive files
+config.json
